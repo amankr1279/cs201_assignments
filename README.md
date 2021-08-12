@@ -1,2 +1,3 @@
 # cs201_assignments
-CS 201 Lab Assignments
+
+This repo contains CS 201 Lab Assignments 
